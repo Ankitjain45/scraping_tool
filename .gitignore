@@ -1,0 +1,26 @@
+# Python bytecode
+**/__pycache__
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environment
+venv/
+.env/
+
+# Database files
+cache.db
+scraped_data.json
+
+# Ignore the images directory
+images/
+
+# IDE/editor specific files
+.vscode/
+.idea/
+*.swp
+
+# Operating system files
+.DS_Store
+
+
